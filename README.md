@@ -1,6 +1,6 @@
 # PushwooshGeozones-XCFramework
 
-This repository hosts the PushwooshGeozones iOS SDK as an XCFramework based Swift Package. Use this repository's Swift Package in Xcode 12+
+This repository hosts the PushwooshGeozones iOS SDK as an XCFramework based Swift Package. Use this repository's Swift Package in Xcode 13+
 
 # Pushwoosh iOS SDK
 
